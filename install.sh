@@ -1,4 +1,4 @@
-keys="laptop desktop"
+keys="laptop"
 
 if which curl > /dev/null; then
         for key in $keys
